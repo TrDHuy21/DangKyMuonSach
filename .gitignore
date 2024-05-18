@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+app/schemas/nhom2.dangkymuonsach.database.AppDatabase/1.json
