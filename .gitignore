@@ -14,4 +14,8 @@
 .cxx
 local.properties
 
+<<<<<<< Updated upstream
 app/schemas/nhom2.dangkymuonsach.database.AppDatabase/1.json
+=======
+app/schemas/nhom2.dangkymuonsach.database.AppDatabase/
+>>>>>>> Stashed changes
